@@ -13,9 +13,4 @@ npx create-expo-app -e with-router
 - [Expo Router: Docs](https://expo.github.io/router)
 - [Expo Router: Repo](https://github.com/expo/router)
 # MESSAGE
-# react-native-JobSearch-applicaion
-# react-native-JobSearch-app
-# native-job-search-app
-# native-job-search-app
-# native-job-search-app
 # native-job-search-app
